@@ -1,6 +1,7 @@
 body {
     background-color: lightgray;
 }
+/* smooth scroll */
 html {
     scroll-behavior: smooth;
 }
@@ -49,6 +50,7 @@ li:hover {
     display: flex;
     flex-wrap: wrap;
 }
+/* future projects location */
 .feature {
     background-color: pink;
     height: 300px;
@@ -69,6 +71,7 @@ li:hover {
     height: 300px;
     width: 300px;
 }
+/* Contact me */
 .Contact-Me {
     display: flex;
     padding-left: 50px;
